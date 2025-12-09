@@ -8,7 +8,7 @@ The objective of this project is to predict the closing prices of stocks based o
 
 2. Dataset:
 The dataset used in this project includes historical stock prices such as Open, High, Low, Close, and Volume. Data is typically fetched from sources like Yahoo Finance using the yfinance library in Python. The dataset contains:
-
+ 
 Date: The date of the stock trading day.
 Open: The opening price of the stock.
 High: The highest price of the stock during the day.
